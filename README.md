@@ -12,5 +12,5 @@ python contra/train_bl.py
 
 - data
 
-you can download dataset from baidu netdisk: url：https://pan.baidu.com/s/15VuCl8BXXKqo_YXQWNh--Q 
-password：j3a5
+you can download dataset from baidu netdisk: url：[https://pan.baidu.com/s/15VuCl8BXXKqo_YXQWNh--Q](https://pan.baidu.com/s/1gc-59wZd-vRcMdwVyoOXHg?pwd=jufh) 
+password：jufh
